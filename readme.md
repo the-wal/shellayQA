@@ -9,4 +9,7 @@ Required Plugins
 	node-red-contrib-mssql
 	
 	
+	![Alt text](/devices.jpg?raw=true "Node-Red")
+	
+	
 	
