@@ -1,5 +1,5 @@
 Shelly Device Monitor Node-Red
-![Alt text](/devices.jpg?raw=true "Node-Red")
+![ScreenShot](devices.jpg)
 Required Software
 	MSSQL Server
 
