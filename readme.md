@@ -1,5 +1,5 @@
 Shelly Device Monitor Node-Red
-![ScreenShot](devices.jpg)
+![ScreenShot](devices.JPG)
 Required Software
 	MSSQL Server
 
